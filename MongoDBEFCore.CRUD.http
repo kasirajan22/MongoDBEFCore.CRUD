@@ -1,0 +1,6 @@
+@MongoDBEFCore.CRUD_HostAddress = http://localhost:5230
+
+GET {{MongoDBEFCore.CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
